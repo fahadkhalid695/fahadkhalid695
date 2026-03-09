@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/fahadkhalid695/fahadkhalid695/raw/main/pic.jpg" width="180" alt="Fahad Khalid" style="border-radius: 50%; margin-bottom: 16px;">
+  <img src="https://github.com/fahadkhalid695/fahadkhalid695/raw/main/pic1.jpg" width="180" alt="Fahad Khalid" style="border-radius: 50%; margin-bottom: 16px;">
 </p>
 <h2 align="center">"The future belongs to those who believe in the beauty of their dreams."</h2>
 <p align="center">— Eleanor Roosevelt</p>
