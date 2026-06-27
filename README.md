@@ -1,6 +1,6 @@
 <!-- ═══════════════════════  HERO  ═══════════════════════ -->
 <p align="center">
-  <img src="https://github.com/fahadkhalid695/fahadkhalid695/raw/main/Profile1.jpg" width="160" alt="Fahad Khalid" />
+  <img src="https://github.com/fahadkhalid695/fahadkhalid695/raw/main/Profile1.png" width="160" alt="Fahad Khalid" />
 </p>
 
 <h1 align="center">Fahad Khalid</h1>
@@ -19,7 +19,7 @@
   <a href="https://tech-portfolio-web.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/fahadkhalid695/fahadkhalid695/blob/main/resume/Fahad-Khalid-Resume.md">
+  <a href="https://github.com/fahadkhalid695/fahadkhalid695/blob/main/resume/Fahad Khalid Resume.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-View%20Online-critical?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
   <a href="https://devpost.com/fahadkhalid695">
