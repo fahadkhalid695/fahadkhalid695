@@ -1,6 +1,6 @@
 <!-- ═══════════════════════  HERO  ═══════════════════════ -->
 <p align="center">
-  <img src="https://github.com/fahadkhalid695/fahadkhalid695/raw/main/pic1.jpg" width="160" alt="Fahad Khalid" />
+  <img src="https://github.com/fahadkhalid695/fahadkhalid695/raw/main/Profile1.jpg" width="160" alt="Fahad Khalid" />
 </p>
 
 <h1 align="center">Fahad Khalid</h1>
